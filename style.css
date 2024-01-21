@@ -443,13 +443,72 @@ body {
     color: #fff;
 }
 
+@media screen and (max-width: 768px) {
+    body {
+        padding: 0;
+    }
+
+    .header {
+        padding: 20px 5%;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar a {
+        margin-left: 0;
+        margin-bottom: 15px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .home {
+        left: 0;
+        width: 100%;
+    }
+
+    .home-content {
+        text-align: center;
+    }
+
+    .popup-info {
+        width: 80%;
+    }
+
+    .quiz-box {
+        width: 80%;
+    }
+
+    .quiz-section,
+    .result-box {
+        width: 100%;
+    }
+
+    .percentage-container,
+    .circular-progress,
+    .circular-progress::before {
+        width: 200px;
+        height: 200px;
+    }
+
+    .buttons button {
+        width: 100%;
+        margin: 0 0 20px;
+    }
+}
+
 /* @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) and (not (-webkit-min-device-pixel-ratio: 1.5)) {
        body {
         background-color: lightblue;
     }
 } */
-@media screen and (min-width: 100px) and (max-width: 899px) {
+
+/* @media screen and (min-width: 100px) and (max-width: 899px) {
     :root{
       display: none;
     }
-  }
+  } */
