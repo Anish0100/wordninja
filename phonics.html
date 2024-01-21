@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Ninja</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="main">
+        <header class="header">
+            <a href="#" class="logo">@WordNinja</a>
+
+            <nav class="navbar">
+                <a href="index.html" class="active">Home</a>
+                <a href="Synonyms.html">Synonyms</a>
+                <a href="Antonyms.html">Antonyms</a>
+                <a href="Analogy.html">Analogy</a>
+                <a href="Idioms.html">Idioms</a>
+                <a href="phonics.html">Phonemes</a>
+            </nav>
+        </header>
+
+        <div class="container">
+            <section class="quiz-section">
+                <div class="quiz-box">
+                    <h1>PHONEME</h1>
+                    <div class="quiz-header">
+                        <span></span>
+                        <span class="header-score">Score: 0 / </span>
+                    </div>
+
+                    <h2 class="question-text"></h2>
+
+                    <div class="option-list">
+                        <!-- <div class="option">
+                            <span>A. Hyper Type Multi Language</span>
+                        </div>
+                        <div class="option">
+                            <span>B. Hyper Text Multiple Language</span>
+                        </div>
+                        <div class="option">
+                            <span>C. Hyper Text Markup Language</span>
+                        </div>
+                        <div class="option">
+                            <span>D. Home Text Multi Language</span>
+                        </div> -->
+                    </div>
+
+                    <div class="quiz-footer">
+                        <span class="question-total">1 of  Questions</span>
+                        <button class="next-btn">Next</button>
+                    </div>
+                </div>
+
+                <div class="result-box">
+                    <h2>Quiz Result!</h2>
+                    <div class="percentage-container">
+                        <div class="circular-progress">
+                            <span class="progress-value">0%</span>
+                        </div>
+
+                        <span class="score-text">Your Score 0 out of 20</span>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="tryAgain-btn">Try Again</button>
+                        <button class="goHome-btn">Go To Home</button>
+                    </div>
+                </div>
+            </section>
+
+            <section class="home">
+                <div class="home-content">
+                    <h1>PHONEME</h1>
+                    <p>Welcome to the phoneme vocabulary quiz challenge. A phoneme is a speech sound that distinguishes one word from another, e.g. the sounds "d" and "t" in the words "bid" and "bit.A phoneme is the smallest phonetic unit that can carry meaning. Here, you've got a chance to test your knowledge of idioms. Click the 'start quiz' button to begin.</p>
+                    <button class="start-btn">Start Quiz</button>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <div class="popup-info">
+        <h2>Quiz Guide</h2>
+        <span class="info">1. Study the questions carefully.</span>
+        <span class="info">2. Observe th options closely.</span>
+        <span class="info">3. Determine the focus: synonyms, antonyms, analogy.</span>
+        <span class="info">4. Select the best answer choice.</span>
+        <span class="info">5. Answers cannot be deselected.</span>
+
+        <div class="btn-group">
+            <button class="info-btn exit-btn">Exit Quiz</button>
+            <a href="#" class="info-btn continue-btn">Continue</a>
+        </div>
+    </div>
+    <audio id="backgroundMusic" loop autoplay>
+        <source src="Songs/Music1.mp3" type="audio/mp3">
+        Your browser does not support the audio element.
+      </audio>
+      
+
+
+    <script src="phonicsq.js"></script>
+    <script src="phonics.js"></script>
+</body>
+</html>
