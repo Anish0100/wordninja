@@ -442,3 +442,14 @@ body {
     background: #c40094;
     color: #fff;
 }
+
+/* @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) and (not (-webkit-min-device-pixel-ratio: 1.5)) {
+       body {
+        background-color: lightblue;
+    }
+} */
+@media screen and (min-width: 100px) and (max-width: 899px) {
+    :root{
+      display: none;
+    }
+  }
