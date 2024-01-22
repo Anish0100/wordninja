@@ -564,7 +564,7 @@ let questions = [
     },
     {
         question: "The REBEL refused to follow the rules set by the government.",
-        answer: "A. pariah",
+        answer: "C. recidivist",
         options: [
             "A. pariah",
             "B. conformist",

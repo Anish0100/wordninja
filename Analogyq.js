@@ -102,7 +102,7 @@ let questions = [
       },
       {
         question: "WRITE : PEN",
-        answer: "B. draw : pencil",
+        answer: "B. paint : brush",
         options: [
           "A. draw : pencil",
           "B. paint : brush",
@@ -112,21 +112,21 @@ let questions = [
       },
       {
         question: "READ : BOOK",
-        answer: "C. study : textbook",
+        answer: "A. study : textbook",
         options: [
           "A. study : textbook",
           "B. learn : teacher",
-          "C. read : book",
+          "C. jump : slide",
           "D. write : paper"
         ]
       },
       {
         question: "TALK : MOUTH",
-        answer: "A. shout : voice",
+        answer: "A. whisper : lips",
         options: [
           "A. whisper : lips",
           "B. shout : voice",
-          "C. talk : mouth",
+          "C. sing : song",
           "D. scream : lungs"
         ]
       },
@@ -144,7 +144,7 @@ let questions = [
         question: "HEAR : EAR",
         answer: "B. listen : ear",
         options: [
-          "A. hear : ear",
+          "A. sight : see",
           "B. listen : ear",
           "C. sound : music",
           "D. deaf : silence"
@@ -156,7 +156,7 @@ let questions = [
         options: [
           "A. dream : mind",
           "B. imagine : thought",
-          "C. think : brain",
+          "C. thoughts : reflection",
           "D. remember : memory"
         ]
       },
@@ -571,7 +571,7 @@ let questions = [
     },
     {
         question: "AERIE : EAGLE",
-        answer: "C. house : person",
+        answer: "D. house : person",
         options: [
             "A. capital : government",
             "B. bridge : architect",

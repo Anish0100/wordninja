@@ -203,8 +203,7 @@ body {
     justify-content: center;
     align-items: center;
     z-index: 100;
-    transition: .8s ease-in-out;
-    transition-delay: .25s;
+   
 }
 
 .quiz-section.active {
@@ -246,7 +245,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 0;
+    padding: 5px 0;
     border-bottom: 2px solid #c40094;
     margin-bottom: 30px;
 }
@@ -442,14 +441,22 @@ body {
     background: #c40094;
     color: #fff;
 }
-
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 100px) and (max-width: 899px) {
+    :root{
+      display: none; /*adjusted*/
+    }
+  }
+/* @media screen and (max-width: 768px) {
     body {
         padding: 0;
     }
 
     .header {
         padding: 20px 5%;
+    }
+
+    .logo {
+        font-size: 24px;
     }
 
     .navbar {
@@ -479,28 +486,32 @@ body {
         width: 80%;
     }
 
+    .quiz-section {
+        align-items: flex-start; 
+    }
+
     .quiz-box {
-        width: 80%;
-    }
-
-    .quiz-section,
-    .result-box {
         width: 100%;
+        max-width: 500px;
+        margin: 0 auto;
     }
 
+    .quiz-section.active {
+        left: 0;
+    }
+
+    .quiz-section .result-box,
     .percentage-container,
     .circular-progress,
     .circular-progress::before {
-        width: 200px;
-        height: 200px;
+        width: 100%;
     }
 
     .buttons button {
         width: 100%;
         margin: 0 0 20px;
     }
-}
-
+} */
 /* @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) and (not (-webkit-min-device-pixel-ratio: 1.5)) {
        body {
         background-color: lightblue;
