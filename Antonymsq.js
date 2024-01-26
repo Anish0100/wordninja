@@ -11,7 +11,7 @@ let questions = [
     },
     {
         question: "Uthman Danfodio lived AN ASCETIC life.",
-        answer: "A. a pleasurabe/hedonist/epicurean/self-indulgeng",
+        answer: "A. a pleasurabe/hedonist/epicurean/self-indulging",
         options: [
             "A. a pleasurabe/hedonist/epicurean/self-indulging",
             "B. an austere/pleasruable/secular",
@@ -30,7 +30,7 @@ let questions = [
         ]
     },
     {
-        question: "The girls loved the FLAMBOYANT personality of the artiste",
+        question: "The girls loved the FLAMBOYANT personality of the artiste.",
         answer: "D. austere",
         options: [
             "A. ostentatious",
@@ -82,12 +82,12 @@ let questions = [
 
     {
         question: "The job requires the service of an EXPERIENCED programmer.",
-        answer: "D. green",
+        answer: "D. greenhorn",
         options: [
             "A. grey-beard",
             "B. old-hand",
             "C. professional",
-            "D. greehorn"
+            "D. greenhorn"
         ]
     },
     {

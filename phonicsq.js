@@ -705,5 +705,115 @@ let questions = [
             "C. bear",
             "D. here"
         ]
-    }
+    },
+    {
+        question: "/i:/",
+        answer: "D. police",
+        options: [
+            "A. beauty",
+            "B. famine",
+            "C. beige",
+            "D. police"
+        ]
+    },
+    {
+        question: "/e/",
+        answer: "B. bury",
+        options: [
+            "A. describe",
+            "B. buryn",
+            "C. journey",
+            "D. needle"
+        ]
+    },
+    {
+        question: "/æ/",
+        answer: "A. timbre",
+        options: [
+            "A. timbre",
+            "B. pass",
+            "C. rather",
+            "D. afar"
+        ]
+    },
+    {
+        question: "/ɒ/",
+        answer: "B. swap",
+        options: [
+            "A. word",
+            "B. swap",
+            "C. sun",
+            "D. wall"
+        ]
+    },
+    {
+        question: "/ɔ:/",
+        answer: "A. fall",
+        options: [
+            "A. fall",
+            "B. nose",
+            "C. block",
+            "D. brother"
+        ]
+    },
+    {
+        question: "/u:/",
+        answer: "B. mood",
+        options: [
+            "A. would",
+            "B. mood",
+            "C. grove",
+            "D. put"
+        ]
+    },
+    {
+        question: "/ʌ/",
+        answer: "C. rough",
+        options: [
+            "A. wrath",
+            "B. parlour",
+            "C. rough",
+            "D. cough"
+        ]
+    },
+    {
+        question: "/ʌ/",
+        answer: "C. southern",
+        options: [
+            "A. gone",
+            "B. font",
+            "C. southern",
+            "D. come"
+        ]
+    },
+    {
+        question: "/ʌ/",
+        answer: "A. front",
+        options: [
+            "A. front",
+            "B. hassle",
+            "C. font",
+            "D. hone"
+        ]
+    },
+    {
+        question: "/ɜ:/",
+        answer: "D. journal",
+        options: [
+            "A. scare",
+            "B. bury",
+            "C. fair",
+            "D. journal"
+        ]
+    },
+    {
+        question: "/ə/",
+        answer: "B. breakfast",
+        options: [
+            "A. breakfast",
+            "B. peculiar",
+            "C. village",
+            "D. hairy"
+        ]
+    },
 ]
