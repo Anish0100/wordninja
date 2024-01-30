@@ -9,7 +9,26 @@ let questions = [
             "D. tour"
         ]
     },
-
+    {
+        question: "/ɜ:/",
+        answer: "C. hurdle",
+        options: [
+            "A. hurray",
+            "B. stop",
+            "C. hurdle",
+            "D. bundle"
+        ]
+    },
+    {
+        question: "/ɜ:/",
+        answer: "D. bird",
+        options: [
+            "A. many",
+            "B. stead",
+            "C. hairy",
+            "D. bird"
+        ]
+    },
     {
         question: "/s/",
         answer: "A. circle",
@@ -40,6 +59,26 @@ let questions = [
             "B. ginger",
             "C. machine",
             "D. prestige"
+        ]
+    },
+    {
+        question: "/ɜ:/",
+        answer: "D. pearl",
+        options: [
+            "A. airplane",
+            "B. care",
+            "C. scarce",
+            "D. pearl"
+        ]
+    },
+    {
+        question: "/ɜ:/",
+        answer: "A. work",
+        options: [
+            "A. work",
+            "B. one",
+            "C. fort",
+            "D. worn"
         ]
     },
     {
@@ -93,6 +132,26 @@ let questions = [
         ]
     },
     {
+        question: "/ɜ:/",
+        answer: "A. earth",
+        options: [
+            "A. earth",
+            "B. blend",
+            "C. ferry",
+            "D. carry"
+        ]
+    },
+    {
+        question: "/ɜ:/",
+        answer: "C. herd",
+        options: [
+            "A. joust",
+            "B. born",
+            "C. herd",
+            "D. catty"
+        ]
+    },
+    {
         question: "/ɔ:/",
         answer: "A. hall",
         options: [
@@ -131,6 +190,26 @@ let questions = [
             "B. wanted",
             "C. see",
             "D. kiosk"
+        ]
+    },
+    {
+        question: "/ɜ:/",
+        answer: "B. fern",
+        options: [
+            "A. shoot",
+            "B. fern",
+            "C. funny",
+            "D. cunning"
+        ]
+    },
+    {
+        question: "/ɜ:/",
+        answer: "A. murky",
+        options: [
+            "A. murky",
+            "B. pesky",
+            "C. heavy",
+            "D. blend"
         ]
     },
     {
@@ -191,6 +270,46 @@ let questions = [
             "B. heir",
             "C. hour",
             "D. honest"
+        ]
+    },
+    {
+        question: "/ɜ:/",
+        answer: "C. word",
+        options: [
+            "A. sword",
+            "B. blood",
+            "C. word",
+            "D. board"
+        ]
+    },
+    {
+        question: "/tʃ/",
+        answer: "A. chin",
+        options: [
+            "A. chin",
+            "B. gin",
+            "C. lass",
+            "D. mass"
+        ]
+    },
+    {
+        question: "/tʃ/",
+        answer: "C. batch",
+        options: [
+            "A. assure",
+            "B. chef",
+            "C. batch",
+            "D. class"
+        ]
+    },
+    {
+        question: "/tʃ/",
+        answer: "A. culture",
+        options: [
+            "A. culture",
+            "B. staff",
+            "C. chemise",
+            "D. brochure"
         ]
     },
     {
@@ -261,6 +380,26 @@ let questions = [
             "B. clarity",
             "C. fair",
             "D. yearn"
+        ]
+    },
+    {
+        question: "/tʃ/",
+        answer: "D. vulture",
+        options: [
+            "A. chimera",
+            "B. chemise",
+            "C. machine",
+            "D. vulture"
+        ]
+    },
+    {
+        question: "/tʃ/",
+        answer: "B. attach",
+        options: [
+            "A. chef",
+            "B. attach",
+            "C. brochure",
+            "D. attache"
         ]
     },
     {
@@ -816,4 +955,45 @@ let questions = [
             "D. hairy"
         ]
     },
+    {
+        question: "PHone",
+        answer: "D. nephew",
+        options: [
+            "A. reveal",
+            "B. psyche",
+            "C. alone",
+            "D. nephew"
+        ]
+    },
+    {
+        question: "kiSS",
+        answer: "A. listen",
+        options: [
+            "A. listen",
+            "B. mission",
+            "C. kill",
+            "D. zeal"
+        ]
+    },
+    {
+        question: "piQue",
+        answer: "B. chloride",
+        options: [
+            "A. chagrin",
+            "B. chloride",
+            "C. ocean",
+            "D. bomb"
+        ]
+    },
+    {
+        question: "/ɜ:/",
+        answer: "A. journey",
+        options: [
+            "A. journey",
+            "B. bought",
+            "C. fought",
+            "D. caught"
+        ]
+    },
+
 ]
