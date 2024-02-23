@@ -949,8 +949,8 @@ let questions = [
         question: "/ə/",
         answer: "B. breakfast",
         options: [
-            "A. breakfast",
-            "B. peculiar",
+            "A. say",
+            "B. breakfast",
             "C. village",
             "D. hairy"
         ]
