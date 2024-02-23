@@ -860,7 +860,7 @@ let questions = [
         answer: "B. bury",
         options: [
             "A. describe",
-            "B. buryn",
+            "B. bury",
             "C. journey",
             "D. needle"
         ]
