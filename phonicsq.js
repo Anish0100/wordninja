@@ -506,12 +506,12 @@ let questions = [
     },
     {
         question: "/ɑ:/",
-        answer: "B. hearth",
+        answer: "B. heart",
         options: [
             "A. earth",
-            "B. hearth",
+            "B. heart",
             "C. mass",
-            "D. marry"
+            "D. hearth"
         ]
     },
     {
