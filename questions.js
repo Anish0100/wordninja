@@ -760,7 +760,7 @@ let questions = [
             "A. helpful",
             "B. relevant",
             "C. irrelevant",
-            "D. indispensable"
+            "D. harmful"
         ]
     },
     {
@@ -1326,8 +1326,108 @@ let questions = [
         ]
       },
       
-                  
-
+      {
+        "question": "Buba has an ALLURING personality.",
+        "answer": "A. attractive",
+        "options": [
+          "A. attractive",
+          "B. intricate",
+          "C. necessity",
+          "D. harmful"
+        ]
+      },
+      
+      {
+        "question": "Hard drugs are DETRIMENTAL to health.",
+        "answer": "D. harmful",
+        "options": [
+          "A. paramount",
+          "B. ineffective",
+          "C. necessary",
+          "D. harmful"
+        ]
+      },
+             
+      {
+        "question": "My father remians OBDURATE once he has taken a decision.",
+        "answer": "D. unyielding",
+        "options": [
+          "A. certain",
+          "B. relaxed",
+          "C. permanent",
+          "D. unyielding"
+        ]
+      },
+      {
+        "question": "We should COAX Kwesi to accept the job.",
+        "answer": "C. cajole",
+        "options": [
+          "A. provoke",
+          "B. discourage",
+          "C. cajole",
+          "D. coerce"
+        ]
+      },
+      {
+        "question": "The psychologist put her into a HYPNOTIC state.",
+        "answer": "B. sleepy",
+        "options": [
+          "A. lively",
+          "B. sleepy",
+          "C. reviving",
+          "D. conscious"
+        ]
+      },
+      {
+        "question": "The children could not resist the HYPNOTIC effect of the movie.",
+        "answer": "A. spellbinding",
+        "options": [
+          "A. spellbinding",
+          "B. amorous",
+          "C. catching",
+          "D. giving"
+        ]
+      },
+      {
+        "question": "The woman takes a FIENDISH delight in punishing people.",
+        "answer": "D. brutal",
+        "options": [
+          "A. humane",
+          "B. kindhearted",
+          "C. compassionate",
+          "D. brutal"
+        ]
+      },
+      {
+        "question": "The little girl SHIVERS whenever she is yelled at.",
+        "answer": "A. jitters",
+        "options": [
+          "A. jitters",
+          "B. relaxes",
+          "C. stills",
+          "D. faints"
+        ]
+      },
+      {
+        "question": "Weak parents sometimes have PLIABLE mind.",
+        "answer": "C. flexible",
+        "options": [
+          "A. rigid",
+          "B. stiffened",
+          "C. flexible",
+          "D. chicken-hearted"
+        ]
+      },
+      {
+        "question": "As the story progresses, it unfolds a MELANGE of plot twists.",
+        "answer": "B. mismash",
+        "options": [
+          "A. type",
+          "B. mismash",
+          "C. homogeneity",
+          "D. conglomeration"
+        ]
+      },
 ];
 
 const count = questions.map((num)=>{

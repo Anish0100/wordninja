@@ -303,6 +303,90 @@ let questions = [
             "D. herculean"
         ]
     },
+
+    {
+        "question": "The nation is in a period of economic FLUX.",
+        "answer": "D. stability",
+        "options": [
+          "A. modification",
+          "B. change",
+          "C. fluidity",
+          "D. stability"
+        ]
+      },
+      {
+        "question": "Yesterday, Hank was highly active but today he seems to be in an EXUBERANT spirit.",
+        "answer": "A. subdued",
+        "options": [
+          "A. subdued",
+          "B. fulsome",
+          "C. lively",
+          "D. bright"
+        ]
+      },
+      
+      {
+        "question": "The clever lawyer exposed the facts that were OBSCURE in the case.",
+        "answer": "B. obvious",
+        "options": [
+          "A. open",
+          "B. obvious",
+          "C. illustrated",
+          "D. reflected"
+        ]
+      },
+      {
+        "question": "While Obi was HOSTILE to the quest, Nnenna remained_________.",
+        "answer": "A. friendly",
+        "options": [
+          "A. friendly",
+          "B. happy",
+          "C. marvelous",
+          "D. conscious"
+        ]
+      },
+      {
+        "question": "When Queen Esther returned to the palace, both the MAGNATE and the prince were there.",
+        "answer": "D. villagers",
+        "options": [
+          "A. queen",
+          "B. princess",
+          "C. strangers",
+          "D. villagers"
+        ]
+      },
+      {
+        "question": "The scientist made a REMARKABLE discovery.",
+        "answer": "D. poor",
+        "options": [
+          "A. common",
+          "B. rare",
+          "C. significant",
+          "D. poor"
+        ]
+      },
+      {
+        "question": "You need to get rid of SUPERFLUOUS argument.",
+        "answer": "A. necessary",
+        "options": [
+          "A. necessary",
+          "B. collective",
+          "C. unimportant",
+          "D. plenteous"
+        ]
+      },
+      {
+        "question": "Many multinationals began to sell off SUBSIDIARIES.",
+        "answer": "A. holdings",
+        "options": [
+          "A. holdings",
+          "B. branches",
+          "C. headquarters",
+          "D. annexes"
+        ]
+      }
+    
+
 ];
 
 // const count = questions.map((num)=>{
