@@ -21,7 +21,7 @@ let questions = [
     },
     {
         question: "His actions were deemed INNOCUOUS",
-        answer: "B. offensive",
+        answer: "C. soothing",
         options: [
             "A. impolite",
             "B. offensive",
@@ -388,9 +388,3 @@ let questions = [
     
 
 ];
-
-// const count = questions.map((num)=>{
-//     console.log(num.question)
-// });
-
-// console.log(count.length);

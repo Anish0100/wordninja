@@ -322,7 +322,7 @@ let questions = [
         ]
     },
     {
-        question: "Tolu felt RELUCTANT when her mum called head",
+        question: "Tolu felt RELUCTANT when her mum called her.",
         answer: "A. reticent",
         options: [
             "A. reticent",
