@@ -60,7 +60,7 @@ let questions = [
   ]
 },
 {
-  question: "Blined by AVARICE, the king hoarded his wealth.",
+  question: "Blinded by AVARICE, the king hoarded his wealth.",
   answer: "A. greed",
   options: [
       "A. greed",
@@ -593,7 +593,7 @@ let questions = [
         ]
     },
     {
-        question: "WThe SUBVERSIVE group aimed to overthrow the government.",
+        question: "The SUBVERSIVE group aimed to overthrow the government.",
         answer: "C. rebellious",
         options: [
             "A. conventional",
