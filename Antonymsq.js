@@ -384,7 +384,178 @@ let questions = [
           "C. headquarters",
           "D. annexes"
         ]
-      }
-    
+      },
 
+      {
+        "question": "What they thought was a TRINKET turned out to be an INVALUABLE artefact.",
+        "answer": "C. valueless",
+        "options": [
+          "A. valuable",
+          "B. scarce",
+          "C. valueless",
+          "D. profitable"
+        ]
+      },
+
+      {
+        "question": "Out of anger, the lady made a very INSULTING remark.",
+        "answer": "B. civil",
+        "options": [
+          "A. stupendous",
+          "B. civil",
+          "C. sophisticated",
+          "D. solemn"
+        ]
+      },
+    
+      {
+        "question": "At the meeting, uncle Tom made a few VULGAR statements that caused a rancor.",
+        "answer": "D. polite",
+        "options": [
+          "A. uncouth",
+          "B. curt",
+          "C. acrimonious",
+          "D. polite"
+        ]
+      },
+
+      {
+        "question": "The clown's OUTLANDISH stunts dazed everyone. What a superb chef d'oeuvre!",
+        "answer": "C. conventional",
+        "options": [
+          "A. exceptional",
+          "B. inferior",
+          "C. conventional",
+          "D. mawkish"
+        ]
+      },
+      {
+        "question": "Speaking circumspectly, I can say Messi is actualy an ACCOMPLISHED footballer.",
+        "answer": "A. untalented",
+        "options": [
+          "A. untalented",
+          "B. unpopular",
+          "C. unsuccessful",
+          "D. indignant"
+        ]
+      },
+
+      {
+        "question": "Russia is one of the BELLIGERENT countries in the world.",
+        "answer": "C. peaceful",
+        "options": [
+          "A. hostile",
+          "B. bellicose",
+          "C. peaceful",
+          "D. parsimonious"
+        ]
+      },
+
+      {
+        "question": "Prof Khan held DISINTERESTED views about religion and politics.",
+        "answer": "A. biased",
+        "options": [
+          "A. biased",
+          "B. lackluster",
+          "C. anxious",
+          "D. silent"
+        ]
+      },
+
+      {
+        "question": "The athlete had grown FEEBLE due to his exposure to lethal substances.",
+        "answer": "A. strong",
+        "options": [
+          "A. strong",
+          "B. weak",
+          "C. brittle",
+          "D. frail"
+        ]
+      },
+
+      {
+        "question": "The artist was RENOWNED for her stunning landscapes, which captivated viewers around the world.",
+        "answer": "B. infamous",
+        "options": [
+          "A. popular",
+          "B. infamous",
+          "C. ill-disposed",
+          "D. notable"
+        ]
+      },
+
+      {
+        "question": "The suspect was APPREHENDED by the police after a brief chase through the city streets.",
+        "answer": "D. released",
+        "options": [
+          "A. arrested",
+          "B. misunderstood",
+          "C. demystified",
+          "D. released"
+        ]
+      },
+
+      {
+        "question": "The letter, signed only with AN ANONYMOUS note, contained valuable information about the upcoming event.",
+        "answer": "A. a titled",
+        "options": [
+          "A. a titled",
+          "B. a nameless",
+          "C. an opaque",
+          "D. a discreet"
+        ]
+      },
+
+      {
+        "question": "Despite their differences, they were able to come to AN AMICABLE agreement regarding the division of assets.",
+        "answer": "B. a belligerent",
+        "options": [
+          "A. a peaceful",
+          "B. a belligerent",
+          "C. an amicabless",
+          "D. a warring"
+        ]
+      },
+
+      {
+        "question": "Some children need COERCION in order to obey simple instruction rather than _________.",
+        "answer": "C. persuasion",
+        "options": [
+          "A. convertion",
+          "B. immersion",
+          "C. persuasion",
+          "D. transmutation"
+        ]
+      },
+
+      {
+        "question": "Attending morning devotion is OBLIGATORY for all the students in the hostel.",
+        "answer": "A. optional",
+        "options": [
+          "A. optional",
+          "B. mandatory",
+          "C. acute",
+          "D. compulsory"
+        ]
+      },
+      {
+        "question": "Your answers are too WORDY; make them __________.",
+        "answer": "D. concise",
+        "options": [
+          "A. verbose",
+          "B. lengthy",
+          "C. redundant",
+          "D. concise"
+        ]
+      },
+      {
+        "question": "The teacher did not want to CHASTISE the student in front of the class, so she called her in privately.",
+        "answer": "D. compliment",
+        "options": [
+          "A. complement",
+          "B. rebuke",
+          "C. rectify",
+          "D. compliment"
+        ]
+      }
 ];

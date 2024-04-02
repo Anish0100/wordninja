@@ -1428,6 +1428,280 @@ let questions = [
           "D. conglomeration"
         ]
       },
+      {
+        "question": "The account of the culprit was obviously FABRICATED.",
+        "answer": "D. invented",
+        "options": [
+          "A. designed",
+          "B. superfluous",
+          "C. cooked out",
+          "D. invented"
+        ]
+      },
+      {
+        "question": "During the COVID-19 pandemic, many countries deployed STRINGENT measures to curtail the spread of the virus.",
+        "answer": "C. severe",
+        "options": [
+          "A. adamant",
+          "B. ingenious",
+          "C. severe",
+          "D. ascetic"
+        ]
+      },
+      {
+        "question": "Joe was too much of a CYNIC to see the benefits of marriage. ",
+        "answer": "D. skeptic",
+        "options": [
+          "A. adamant",
+          "B. ingenious",
+          "C. severe",
+          "D. skeptic"
+        ]
+      },
+      {
+        "question": "Carol White is undoubtedly INEXPERIENCED. He is such a rookie",
+        "answer": "D. green",
+        "options": [
+          "A. brown",
+          "B. yellow",
+          "C. blue",
+          "D. green"
+        ]
+      },
+      {
+        "question": "Most Europeans deny being PREJUDICED against people of other races.",
+        "answer": "B. bigoted",
+        "options": [
+          "A. impartial",
+          "B. bigoted",
+          "C. transigent",
+          "D. dogmatic"
+        ]
+      },
+      {
+        "question": "The students felt that the teacher's speech was INNOCUOUS.",
+        "answer": "D. harmful",
+        "options": [
+          "A. impolite",
+          "B. inappropriate",
+          "C. antagonistic",
+          "D. harmful"
+        ]
+      },
+      {
+        "question": "Chelsea fans were mostly ILL-DISPOSED to fans of other clubs after the match.",
+        "answer": "C. hostile",
+        "options": [
+          "A. sick",
+          "B. violent",
+          "C. hostile",
+          "D. confrontational"
+        ]
+      },
+
+      {
+        "question": "A leisurely turn at the Himalayan pass was indeed a life-saver.",
+        "answer": "D. gentle",
+        "options": [
+          "A. smart",
+          "B. well calculated",
+          "C. steadily swift",
+          "D. gentle"
+        ]
+      },
+      {
+        "question": "The city looked BLEAK and desolate like old Sodom. It is indeed accursed.",
+        "answer": "C. melancholic",
+        "options": [
+          "A. bland",
+          "B. hoary",
+          "C. melancholic",
+          "D. frail"
+        ]
+      },
+
+      {
+        "question": "The pregnant woman would have to visit a/an __________ for diurnal checks.",
+        "answer": "C. obstetrician",
+        "options": [
+          "A. gynecologist",
+          "B. ophthalmologist",
+          "C. obstetrician",
+          "D. pregnotherapist"
+        ]
+      },
+
+      {
+        "question": "After the war, the people became glum and DEPRESSED.",
+        "answer": "B. blue",
+        "options": [
+          "A. red",
+          "B. blue",
+          "C. white",
+          "D. brown"
+        ]
+      },
+
+      {
+        "question": "POVERTY struck the small village, resonating starkly with the ____________ mountains that surrounded it.",
+        "answer": "D. penurious",
+        "options": [
+          "A. affluent",
+          "B. worsening",
+          "C. alarming",
+          "D. penurious"
+        ]
+      },
+
+      {
+        "question": "The most COMPETENT student in the school received an award last week.",
+        "answer": "A. efficient",
+        "options": [
+          "A. efficient",
+          "B. cautious",
+          "C. adequate",
+          "D. pertinent"
+        ]
+      },
+
+      {
+        "question": "When we couldn't find the boy, we suspected that he must have been ABDUCTED.",
+        "answer": "C. kidnapped",
+        "options": [
+          "A. nabbed",
+          "B. stolen",
+          "C. kidnapped",
+          "D. arrested"
+        ]
+      },
+
+      {
+        "question": "Because of a probable dent on one's image, some old politicians now ABHOR corruption.",
+        "answer": "A. hate",
+        "options": [
+          "A. hate",
+          "B. love",
+          "C. admire",
+          "D. embrace"
+        ]
+      },
+
+      {
+        "question": "The decision seemed TRIVIAL at the time, but it later proved to have significant implications.",
+        "answer": "B. inconsequential",
+        "options": [
+          "A. meagre",
+          "B. inconsequential",
+          "C. farfetched",
+          "D. wide off the mark"
+        ]
+      },
+
+      {
+        "question": "The process of building the intricate model was LABORIOUS, requiring hours of meticulous work.",
+        "answer": "A. painstaking",
+        "options": [
+          "A. painstaking",
+          "B. painful",
+          "C. hardworking",
+          "D. tedious"
+        ]
+      },
+      {
+        "question": "I love the new orange juice; its PUNGENT taste is quite hypnotic!",
+        "answer": "A. powerful",
+        "options": [
+          "A. powerful",
+          "B. pleasant",
+          "C. shocking",
+          "D. repulsive"
+        ]
+      },
+      {
+        "question": "She was RETICENT about her past, preferring to keep the memories private.",
+        "answer": "D. discrete",
+        "options": [
+          "A. troubled",
+          "B. lazy",
+          "C. silent",
+          "D. discrete"
+        ]
+      },
+      {
+        "question": "The teacher complained that the classroom is FILTHY.",
+        "answer": "D. dirty",
+        "options": [
+          "A. expensive",
+          "B. neat",
+          "C. clean",
+          "D. dirty"
+        ]
+      },
+      {
+        "question": "We all find her speech FASCINATING.",
+        "answer": "A. attractive",
+        "options": [
+          "A. attractive",
+          "B. educative",
+          "C. boring",
+          "D. dull"
+        ]
+      },
+
+      {
+        "question": " Some issues are quite CONTROVERSIAL and so need to be thrashed out on radio.",
+        "answer": "B. debatable",
+        "options": [
+          "A. convertible",
+          "B. debatable",
+          "C. serious",
+          "D. important"
+        ]
+      },
+
+      {
+        "question": "His students say that he is BATTY.",
+        "answer": "C. eccentric",
+        "options": [
+          "A. approachable",
+          "B. agreeable",
+          "C. eccentric",
+          "D. indisposed"
+        ]
+      },
+
+      {
+        "question": "His action made his family ABSOLVE him of his crime.",
+        "answer": "B. forgive",
+        "options": [
+          "A. reward",
+          "B. forgive",
+          "C. disregard",
+          "D. deny"
+        ]
+      },
+
+      {
+        "question": "You look GRISLY in that hat.",
+        "answer": "A. awful",
+        "options": [
+          "A. awful",
+          "B. big",
+          "C. joggy",
+          "D. gorgeous"
+        ]
+      },
+
+      {
+        "question": "Climbing the mountain is quite an ARDUOUS task.",
+        "answer": "C. difficult",
+        "options": [
+          "A. obvious",
+          "B. easy",
+          "C. difficult",
+          "D. enjoyable"
+        ]
+      }
 ];
 
 const count = questions.map((num)=>{

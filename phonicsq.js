@@ -996,4 +996,146 @@ let questions = [
         ]
     },
 
+    {
+        question: "/u:/",
+        answer: "C. food",
+        options: [
+            "A. good",
+            "B. book",
+            "C. food",
+            "D. should"
+        ]
+    },
+
+    {
+        question: "/ɜ:/",
+        answer: "A. nurse",
+        options: [
+            "A. nurse",
+            "B. help",
+            "C. fair",
+            "D. breakfast"
+        ]
+    },
+
+    {
+        question: "/a:/",
+        answer: "C. father",
+        options: [
+            "A. bat",
+            "B. chat",
+            "C. father",
+            "D. month"
+        ]
+    },
+
+    {
+        question: "/D/",
+        answer: "C. ponder",
+        options: [
+            "A. wonder",
+            "B. border",
+            "C. ponder",
+            "D. worry"
+        ]
+    },
+
+    {
+        question: "/j/",
+        answer: "C. suit",
+        options: [
+            "A. jalopy",
+            "B. beige",
+            "C. suit",
+            "D. bay"
+        ]
+    },
+    
+    {
+        question: "/z/",
+        answer: "C. days",
+        options: [
+            "A. rice",
+            "B. race",
+            "C. days",
+            "D. loose"
+        ]
+    },
+    
+    {
+        question: "/æ/",
+        answer: "B. plait",
+        options: [
+            "A. giraffe",
+            "B. plait",
+            "C. plant",
+            "D. pass"
+        ]
+    },
+
+    {
+        question: "/ʃ/",
+        answer: "B. brochure",
+        options: [
+            "A. decision",
+            "B. brochure",
+            "C. scissors",
+            "D. chasm"
+        ]
+    },
+
+    {
+        question: "/ʧ/",
+        answer: "B. clutch",
+        options: [
+            "A. champagne",
+            "B. clutch",
+            "C. nation",
+            "D. non-chalant"
+        ]
+    },
+
+    {
+        question: "/d/",
+        answer: "D. bagged",
+        options: [
+            "A. slapped",
+            "B. educate",
+            "C. procedure",
+            "D. bagged"
+        ]
+    },
+
+    {
+        question: "/h/",
+        answer: "A. hero",
+        options: [
+            "A. hero",
+            "B. sheer",
+            "C. honesty",
+            "D. honorable"
+        ]
+    },
+
+    {
+        question: "/L/",
+        answer: "B. salvo",
+        options: [
+            "A. salmon",
+            "B. salvo",
+            "C. calm",
+            "D. psalm"
+        ]
+    },
+
+    {
+        question: "/f/",
+        answer: "D. draught",
+        options: [
+            "A. of",
+            "B. dough",
+            "C. drought",
+            "D. draught"
+        ]
+    }
 ]
