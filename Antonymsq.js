@@ -1,5 +1,196 @@
 let questions = [
     {
+        question: "The manager that was SACKED last month has been: ________",
+        answer: "C. reinstated",
+        options: [
+            "A. retired",
+            "B. sober",
+            "C. reinstated",
+            "D. promoted"
+        ]
+    },
+    {
+      question: "Words spoken in the heat of the argument could OFFEND rather than _______________",
+      answer: "A. pacify",
+      options: [
+          "A. pacify",
+          "B. amuse",
+          "C. inspire",
+          "D. irritate"
+      ]
+  },
+  {
+    question: "Some OUTSPOKE social critics live a _________ life.",
+    answer: "A. reserved",
+    options: [
+        "A. reserved",
+        "B. happy",
+        "C. boisterous",
+        "D. still"
+    ]
+},
+{
+  question: "The testimony was VAGUE and void of __________ details.",
+  answer: "A. specific",
+  options: [
+      "A. specific",
+      "B. minute",
+      "C. transparent",
+      "D. hidden"
+  ]
+},
+{
+  question: "John is consistentLY ASSERTIVE whereas his brother is _____________",
+  answer: "C. reserved",
+  options: [
+      "A. cautious",
+      "B. cowardly",
+      "C. reserved",
+      "D. respectful"
+  ]
+},
+{
+  question: "He is quite an OUTSPOKEN man, but his father is _____________",
+  answer: "C. taciturn ",
+  options: [
+      "A. humorous",
+      "B. sober",
+      "C. taciturn",
+      "D. silent"
+  ]
+},
+{
+  question: "Personally, I GIVE IN when it comes to arguments, but Benjamin often __________ his opinion.",
+  answer: "B. holds on",
+  options: [
+      "A. holds in",
+      "B. holds on",
+      "C. holds back",
+      "D. holds up"
+  ]
+},
+{
+  question: "The policies of the government favor the ELITE rather than the _________",
+  answer: "A. masses",
+  options: [
+      "A. masses",
+      "B. oppressed",
+      "C. public",
+      "D. unemployed"
+  ]
+},
+{
+  question: "The policies of the government favor the ELITE rather than the _________",
+  answer: "A. masses",
+  options: [
+      "A. masses",
+      "B. oppressed",
+      "C. public",
+      "D. unemployed"
+  ]
+},
+{
+  question: "Through hardwork, Precious OUTSHONE her colleague rather than being ___________",
+  answer: "A. overshadowed",
+  options: [
+      "A. overshadowed",
+      "B. demoted",
+      "C. defeated",
+      "D. submerged"
+  ]
+},
+{
+  question: "Though the position of minister was CONFERRED on him, it was ________ due to his dishonesty.",
+  answer: "C. revoked",
+  options: [
+      "A. reversed",
+      "B. recalled",
+      "C. revoked",
+      "D. reclaimed"
+  ]
+},
+{
+  question: "The government's effort to IMPROVE the economy rather _________ it.",
+  answer: "D. worsened",
+  options: [
+      "A. destroyed",
+      "B. complicated",
+      "C. spoilt",
+      "D. worsened"
+  ]
+},
+{
+  question: "Despite all my attempt to REFUTE all the charges against me, my sister tried to __________ them",
+  answer: "D. maintain",
+  options: [
+      "A. defend",
+      "B. prove",
+      "C. investigate",
+      "D. maintain"
+  ]
+},
+{
+  question: "Good teaching STIMULATES the interest of the students whereas bad teaching _____________ it.",
+  answer: "A. dampens",
+  options: [
+      "A. dampens",
+      "B. encourages",
+      "C. supersedes",
+      "D. retracts"
+  ]
+},
+{
+  question: "The purpose of education is to ENHANCE progress and not _________ it.",
+  answer: "C. impede",
+  options: [
+      "A. proscribe",
+      "B. intercept",
+      "C. impede",
+      "D. confuse"
+  ]
+},
+
+{
+  question: "The investigators relied solely on CONJECTURES rather than ________.",
+  answer: "A. facts",
+  options: [
+      "A. facts",
+      "B. hearsays",
+      "C. figures",
+      "D. fabrications"
+  ]
+},
+{
+  question: "The man was accused of PREMEDITATED murder but he proved it was ____________.",
+  answer: "C. planned",
+  options: [
+      "A. determined",
+      "B. accidental",
+      "C. planned",
+      "D. contrived"
+  ]
+},
+{
+  question: "The HANDSOME amount from her business differs from the _________ returns from her husband's business.",
+  answer: "B. meagre",
+  options: [
+      "A. ugly",
+      "B. meagre",
+      "C. modest",
+      "D. lowly"
+  ]
+},
+{
+  question: "The officer was expecting to be __________; unfortunately, he was CENSURED",
+  answer: "B. praised",
+  options: [
+      "A. questioned",
+      "B. praised",
+      "C. decorated",
+      "D. guided"
+  ]
+},
+    {
         question: "We tend to dislike it when activities are MONOTONOUS",
         answer: "A. varied",
         options: [
