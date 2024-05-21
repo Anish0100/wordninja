@@ -162,7 +162,7 @@ let questions = [
 },
 {
   question: "The man was accused of PREMEDITATED murder but he proved it was ____________.",
-  answer: "C. planned",
+  answer: "B. accidental",
   options: [
       "A. determined",
       "B. accidental",
@@ -261,7 +261,7 @@ let questions = [
         ]
     },
     {
-        question: "We have discated the BLUNT blades for the _________ ones.",
+        question: "We have discarded the BLUNT blades for the _________ ones.",
         answer: "C. sharp",
         options: [
             "A. japed",
